@@ -1,16 +1,208 @@
-## Hi there 👋
+# About me
+# 👋 嗨，我是李思琪，也可以叫我季陵安 (Ji-Nan)！
 
-<!--
-**jilinan-code/jilinan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%C3%97+计算结构生物学;极端环境光电传感+仿生感知;让代码揭示生命与物理的内在逻辑;ENTJ指挥官+亲和力MAX🦊" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    🏫 深圳理工大学 SUAT · 山西太原（常驻）<br>
+    🎯 <b>AI for Science</b> | <b>蛋白结构预测</b> | <b>深度学习理论</b> | <b>极端环境光电传感 🛰️</b><br>
+    🦊 TT狐狸 · ENTJ指挥官型但人人都说好相处 · 代码写得好也要逻辑说得通
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 关于我 | About Me
+
+```
+╔════════════════════════════════════════════════╗
+║  一个既追求理论深度又热衷实验验证的 AI 研究员   ║
+║  相信好的科学不仅要有漂亮的故事                  ║
+║  更要有经得起 6 轮稳健性审计的硬核证据 🔬        ║
+╚════════════════════════════════════════════════╝
+```
+
+- 🤖 着迷于**深度学习为什么会失败**——以及如何让它不再失败
+- 🧪 在**蛋白质结构预测 & 抗体-抗原互作**领域深耕，CASP17 参赛选手
+- 📐 发现 **CAF (三误差耦合框架)** 可以解释神经网络中的 debiasing-fitting trade-off
+- 🏥 把理论落地到**真实临床胸片诊断**，看看到底是什么让模型在真实世界翻车
+- 🛰️ 常驻山西太原，从事**极端环境光电动态监测 & 仿生传感**研究
+- 🎭 性格标签：**ENTJ-A**（战略型指挥官 🤺） + **亲和力溢出**（实验室的气氛组担当 🎉）
+- 🦊 签名为 TT 狐狸，因为狐狸既聪明又灵活——做研究不就应该这样吗？
+
+> *"To be rigorous is to be kind — 严谨是对科学最大的温柔"*  
+> *"Don't just tell a good story, prove it. Six ways. 🧐"*
+
+---
+
+## 🔥 核心项目 | Featured Projects
+
+### 🌟 揭示深度学习的泛化失败之谜
+
+> 提出 **CAF (Coupling Amplification Factor)** —— 揭示神经网络 debiasing-fitting trade-off 的统一因果中介机制
+
+| 核心发现 | 指标 | 意义 |
+|:---------|:----:|:-----|
+| CAF 预测泛化差距 | **R² = 0.9944** 🎯 | 远超所有单一误差项 |
+| CAF 的 Scaling Law | **CAF\* = 0.147 × N⁻⁰·⁴¹³** | 幂律关系，R²=0.9977 |
+| 仅需 5% 数据预测 | **R² = 0.9818** 🔮 | 早停预警不是梦 |
+| Falsification 实验 | **CV < 6.59%** | 反证实验全数通过 ✅ |
+| 6 轮稳健性审计 | **全数通过** 🛡️ | Permutation/Bootstrap/LOO/VIF |
+
+```
+📊 覆盖 4 个领域、200+ 实验配置 · 投稿目标 NeurIPS/ICML/ICLR
+```
+
+---
+
+### 🧬 ProaffNet: 抗体-抗原结合亲和力预测
+
+> 蛋白质-蛋白质互作亲和力预测深度模型，CASP17 参赛作品
+
+```
+🧬 下一代架构研发中 · NMI 投稿版本 · CASP17 参赛作品
+```
+
+---
+
+### 🏥 医学影像 AI: 从理论到临床
+
+> CAF 理论的真实世界验证：在胸片诊断中揭示模型泛化失败的机制
+
+```
+核心发现 🔍：
+  PA 投照体位 → Compression 主导的失败机制
+  AP 投照体位 → Shortcut 主导的失败机制  ← 同一模型！同一医院！
+  
+  数据集：CheXpert · NIH ChestX-ray14 · Shenzhen TB · VinDr
+```
+
+---
+
+### 🎓 CASP17 参赛
+
+> 蛋白质 & RNA 结构预测赛道 | 多版本迭代提交
+
+```
+🧬 蛋白质 & RNA 结构预测 · 多版本迭代提交 · 共 10 个靶点
+```
+
+---
+
+### 🔬 更多项目速览
+
+| 项目 | 一句话介绍 | 亮点 |
+|:-----|:----------|:-----|
+| 🧹 **PepCleaver** | 肽段裂解位点预测 | 驴胶原蛋白应用 🐴 |
+| 🔮 **DeepSCFold** | 深度学习蛋白折叠识别 | ESM2 + MSA 排序 |
+| 🧬 **EvoPep** | 进化引导的肽设计 | 序列-功能联合优化 |
+| 🧪 **UniZyme** | 统一酶设计框架 | 多任务学习 |
+| 🔗 **EGNN Pretrain** | 等变图神经网络预训练 | 蛋白表示学习 |
+| 📡 **InteractionField** | 蛋白互作场数据集 | 结构生物学基础数据 |
+| 🔄 **LoopPrediction** | 蛋白环区预测 POC | CDR 区域建模 |
+| 📰 **arxiv_daily** | 自动化论文筛选推送 | LLM 打分 + Flask 面板 |
+| 🧪 **DeepScientist** | AI 科研智能体 | 插件化实验编排 |
+| 🏥 **ChestXpert-Fusion** | 多模态胸片诊断 | 图像 + 文本融合 |
+
+---
+
+## 🛠️ 技术工具箱
+
+```
+🧠 深度学习架构   │ PyTorch · ESM · OpenFold · EGNN · InceptionNeXt · GNNs
+📊 统计与因果     │ Causal Inference · Bootstrap · Permutation Test · VIF · Shapley
+🧬 计算结构生物学   │ PDB/mmCIF · MMseqs2 · AlphaFold · CASP · SKEMPI
+🏥 医学影像       │ Chest X-ray · CheXpert · NIH · DICOM
+📈 实验管理       │ Weights & Biases · Ray · Slurm · 大规模并行实验
+🌐 工具开发       │ Flask · SQLite · REST API · LLM Agent
+```
+
+---
+
+## 📈 研究哲学 | Research Philosophy
+
+<p align="center">
+  <samp>
+    <b>"Story tells, evidence sells."</b><br>
+    好故事吸引人，好证据说服人。
+  </samp>
+</p>
+
+```
+  我追求的科研标准：
+  ┌─────────────────────────────────────────┐
+  │  ✅ 理论有洞见 (Novelty → 8.5+)         │
+  │  ✅ 故事讲得通 (Story → 9.0)             │
+  │  ✅ 实验要做硬 (Rigor → 8.0+)            │
+  │  ✅ 反证不能少 (Falsifiability → 7.0+)   │
+  │  ✅ 跨领域泛化 (Generality → 7.0+)       │
+  │  ✅ 别人能复现 (Reproducibility → 9.0)   │
+  └─────────────────────────────────────────┘
+```
+
+**我的信条** 🔑：
+- 🎯 做一个 **科学侦探** 而非数据政客——让结论跟着证据走
+- 🏗️ 理论要从第一性原理出发，不堆砌术语唬人
+- 🔍 对自己的论文做 **6 轮稳健性审计** 再投出去
+- 🌍 好的 AI 理论必须能在**真实世界**站住脚（实验室里的涨点是幻觉的开始）
+- 🤝 科研是群体活动——**分享知识，拥抱合作，拒绝闭门造车**
+
+---
+
+## 📫 联系我 | Get in Touch
+
+<p align="center">
+  <samp>
+    <b>📮 实验室公共邮箱</b><br>
+    <a href="mailto:suat_fenglab@163.com">suat_fenglab@163.com</a>（网易）<br>
+    <a href="mailto:fengzhiwei@suat-sz.edu.cn">fengzhiwei@suat-sz.edu.cn</a>（冯志炜老师教育邮箱）<br><br>
+    <b>📮 个人邮箱</b><br>
+    <a href="mailto:3286708991@qq.com">3286708991@qq.com</a>（个人）<br>
+    <a href="mailto:2505014212@st.nuc.edu.cn">2505014212@st.nuc.edu.cn</a>（教育邮箱）<br><br>
+    <a href="https://github.com/SUAT-ZhiweiFengLab">
+      <img src="https://img.shields.io/badge/GitHub-SUAT--ZhiweiFengLab-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    🏫 深圳理工大学 · AbComplex-SUAT 实验室 · 山西太原<br>
+    🤗 欢迎来聊 AI for Science · 蛋白设计 · 深度学习理论 · 极端环境光电传感<br>
+    🦊 合作请直接发邮件，我的狐狸尾巴随时待命！
+  </samp>
+</p>
+
+---
+
+## 🎮 关于 ENTJ + 亲和力这件事
+
+<p align="center">
+  <samp>
+    ENTJ 指挥官的日常：<br>
+    <b>"这个实验方案我分成 7 个并行任务，每人负责……"</b><br>
+    📋🗂️📊 → 🤺 战略家模式 ON<br><br>
+    下一秒：<br>
+    <b>"诶你那个 bug 我帮你看了，是梯度没截断，来我给你画个图！"</b><br>
+    🎨🤗🦊 → 亲和力模式 ON<br>
+  </samp>
+</p>
+
+> 我的 ENTJ 让你感受不到压迫感，只感受到"和你合作很高效还很开心"  
+> ——这大概就是所谓的 **战略级亲和力** 吧 😎
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUAT-ZhiweiFengLab&style=for-the-badge&color=6366F1" alt="profile views" />
+</p>
+
+<p align="center">
+  <samp>
+    <i>Last updated: 2026-07-20</i><br>
+    <b>🦊 Stay curious, stay rigorous, and always question your own conclusions!</b>
+  </samp>
+</p>
