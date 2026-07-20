@@ -190,7 +190,7 @@
 
 ---
 
-# 🇬🇧 TL;DR — English Edition 🦊
+# English Edition 🦊
 
 <p align="center">
   <samp>
@@ -202,7 +202,7 @@
 
 ---
 
-## 🧬 Who am I? (The short version)
+## 🧬 Who am I? 
 
 ```
 ENTJ-A Commander 🗡️  +  Overflowing Affability 🤗
