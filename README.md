@@ -194,7 +194,7 @@
 
 <p align="center">
   <samp>
-    <b>Si-Qi Li · Ji-Nan Lin</b><br>
+    <b>Si-Qi Li · Lin-An Ji</b><br>
     SUAT (Shenzhen) · Based in Taiyuan, Shanxi<br>
     <b>AI × Bio × Extreme-Environment Photonics</b>
   </samp>
