@@ -1,13 +1,10 @@
 # About me
-# 👋 嗨，我是李思琪，也可以叫我季陵安 (Ji-Nan)！
+# 👋 嗨，我是李思琪，也可以叫我季陵安 (Ji-Linan)！
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%C3%97+计算结构生物学;极端环境光电传感+仿生感知;让代码揭示生命与物理的内在逻辑;ENTJ指挥官+亲和力MAX🦊" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <samp>
-    🏫 深圳理工大学 SUAT · 山西太原（常驻）<br>
+    🏫 深圳理工大学 SUAT · 山西太原<br>
     🎯 <b>AI for Science</b> | <b>蛋白结构预测</b> | <b>深度学习理论</b> | <b>极端环境光电传感 🛰️</b><br>
     🦊 TT狐狸 · ENTJ指挥官型但人人都说好相处 · 代码写得好也要逻辑说得通
   </samp>
@@ -19,7 +16,7 @@
 
 ```
 ╔════════════════════════════════════════════════╗
-║  一个既追求理论深度又热衷实验验证的 AI 研究员   ║
+║  一个既追求理论深度又热衷实验验证的 AI 研究员    ║
 ║  相信好的科学不仅要有漂亮的故事                  ║
 ║  更要有经得起 6 轮稳健性审计的硬核证据 🔬        ║
 ╚════════════════════════════════════════════════╝
@@ -48,7 +45,7 @@
 |:---------|:----:|:-----|
 | CAF 预测泛化差距 | **R² = 0.9944** 🎯 | 远超所有单一误差项 |
 | CAF 的 Scaling Law | **CAF\* = 0.147 × N⁻⁰·⁴¹³** | 幂律关系，R²=0.9977 |
-| 仅需 5% 数据预测 | **R² = 0.9818** 🔮 | 早停预警不是梦 |
+| 仅需 5% 数据预测 | **R² = 0.9818** 🔮 | 早停预警 |
 | Falsification 实验 | **CV < 6.59%** | 反证实验全数通过 ✅ |
 | 6 轮稳健性审计 | **全数通过** 🛡️ | Permutation/Bootstrap/LOO/VIF |
 
@@ -172,27 +169,9 @@
   <samp>
     🏫 深圳理工大学 · AbComplex-SUAT 实验室 · 山西太原<br>
     🤗 欢迎来聊 AI for Science · 蛋白设计 · 深度学习理论 · 极端环境光电传感<br>
-    🦊 合作请直接发邮件，我的狐狸尾巴随时待命！
+    🦊 合作请直接发邮件，会经常待命！
   </samp>
 </p>
-
----
-
-## 🎮 关于 ENTJ + 亲和力这件事
-
-<p align="center">
-  <samp>
-    ENTJ 指挥官的日常：<br>
-    <b>"这个实验方案我分成 7 个并行任务，每人负责……"</b><br>
-    📋🗂️📊 → 🤺 战略家模式 ON<br><br>
-    下一秒：<br>
-    <b>"诶你那个 bug 我帮你看了，是梯度没截断，来我给你画个图！"</b><br>
-    🎨🤗🦊 → 亲和力模式 ON<br>
-  </samp>
-</p>
-
-> 我的 ENTJ 让你感受不到压迫感，只感受到"和你合作很高效还很开心"  
-> ——这大概就是所谓的 **战略级亲和力** 吧 😎
 
 ---
 
@@ -206,3 +185,70 @@
     <b>🦊 Stay curious, stay rigorous, and always question your own conclusions!</b>
   </samp>
 </p>
+
+---
+
+---
+
+# 🇬🇧 TL;DR — English Edition 🦊
+
+<p align="center">
+  <samp>
+    <b>Si-Qi Li · Ji-Nan Lin</b><br>
+    SUAT (Shenzhen) · Based in Taiyuan, Shanxi<br>
+    <b>AI × Bio × Extreme-Environment Photonics</b>
+  </samp>
+</p>
+
+---
+
+## 🧬 Who am I? (The short version)
+
+```
+ENTJ-A Commander 🗡️  +  Overflowing Affability 🤗
+  ↓
+Strategic-level friendliness 😎
+```
+
+I'm an AI researcher who believes **a good story means nothing without brutal honesty in experiments** 🧐. I build theory, then stress-test it across biology, medicine, and photonics until it either breaks or earns my trust.
+
+**Currently obsessed with**: Why neural networks fail at generalization — and making them stop.
+
+---
+
+## 🔥 What I Do
+
+| Area | Highlight |
+|:-----|:---------|
+| 🧠 **DL Generalization Theory** | Discovered CAF — a triplet coupling framework that predicts the debiasing-fitting trade-off at **R² = 0.9944** 🎯. Found its scaling law. Falsified it. Audited it 6 ways. It survived. |
+| 🧬 **Protein Structure & Affinity** | CASP17 competitor. Antibody-antigen binding prediction with ProaffNet. |
+| 🏥 **Clinical AI** | Took CAF to real chest X-rays. Found that the *same model fails differently* on PA vs AP views — a mechanistic phase transition in the wild 🏨. |
+| 🛰️ **Extreme-Environment Photonics** | Optical dynamic monitoring & bio-inspired sensing. Living that hardware + software dual life in Taiyuan. |
+
+---
+
+## 🛠️ Stack
+
+```
+PyTorch · ESM · OpenFold · EGNN · Causal Inference · Bootstrap · HPC/Slurm
+X-ray AI · CheXpert · Protein Design · Flask · LLM Agents
+```
+
+---
+
+## 📫 Reach Me
+
+| Type | Email |
+|:-----|:-----|
+| 🏛️ Lab (public) | `suat_fenglab@163.com` / `fengzhiwei@suat-sz.edu.cn` |
+| 👤 Personal | `3286708991@qq.com` / `2505014212@st.nuc.edu.cn` |
+
+<p align="center">
+  <a href="https://github.com/SUAT-ZhiweiFengLab">
+    <img src="https://img.shields.io/badge/GitHub-SUAT--ZhiweiFengLab-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 🦊 *"I audit my own papers harder than reviewers ever will. Because rigor is the ultimate kindness — to science, and to yourself."*
